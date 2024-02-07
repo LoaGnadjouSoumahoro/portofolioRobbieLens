@@ -1,0 +1,58 @@
+A2
+
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;500;600;700&family=Montserrat:wght@300;400;500;600;700&display=swap");
+
+/* font-family: 'Montserrat', sans-serif; */
+
+/* font-family: 'Manrope', sans-serif; */
+
+* {
+  /* box-sizing: border-box; */
+  margin: 0;
+  padding: 0;
+}
+main {
+  background: #1f2039;
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+ 
+}
+
+.item,
+.link {
+  font-size: 1em;
+  font-family: 'Manrope', sans-serif;
+  
+}
+
+.main__text--color {
+  color: #a5b4fc;
+}
+
+h1{
+  font-size: 3.5em;
+  color: #A5B4FC;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p{
+  font-size: 1.1em;
+  font-family: Manrope', sans-serif;
+}
+.header,
+.footer {
+  background: white;
+  color: #242424;
+}
+.footer {
+  margin-block-end: 900px;
+}
+
+p,
+h2,
+.item {
+  color: #f9f8ff;
+}
